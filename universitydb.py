@@ -61,6 +61,8 @@ while True:
         con.close()
         print("==program completed successfully==")
         break
+    else:
+        print("enter a proper choice")
 
 
 
